@@ -5,7 +5,9 @@ It is a **_Full-Stack, responsive web application_** to explore, create, modify 
 
 
 # Live Demo Link
-The application is deployed and can visited by clicking [HERE](https://aqueous-bayou-49410.herokuapp.com/)
+The application is deployed and can visited by clicking [HERE](https://aqueous-bayou-49410.herokuapp.com/) 
+
+_(might take 5 to 10 seconds to load since it is hosted on a free platform)_
 
 
 ## IMPORTANT
@@ -16,6 +18,8 @@ The website **only allows registered users** to make modifications (in order to 
 
 * *Password:* **tim**
 
+# Platform 
+The application is being hosted on **Heroku's** free platform since this is not a commercial application.
 
 # Front-end Tools and Frameworks
 HTML, CSS and **_Bootstrap_** used to design the boilerplate interactivity of the user interfaces.
